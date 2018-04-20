@@ -43,7 +43,7 @@ In comparison, Karpathy's<sup>[3](#Karpathy)</sup> multi-layer recurrent neural 
 
 *Fig 4. Machine composer or Milton Babbitt?*
 
-###References
+**References**
 
 Matt Vitelli, Aran Nayebi GRUV -- https://github.com/MattVitelli/GRUV
 
