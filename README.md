@@ -12,7 +12,9 @@ ___
 
 ### Introduction
 
-While there have been some successful attempts at creating convincing machine composers, these have so far all taken the track of training on score or midi derived data sets. There are currently no successful machine music generators trained only on the audio waveform data. This fact is surprising given the state of the field in image and video generation -- it seems that this is something deep learning algorithms ought to be able handle, and handle well. This capstone presents an attempt at training a neural net directly on the audio waveform of a performance of Bach's 24 Preludes and Fugues (from the *Well-Tempered Clavier*) in an attempt to produce fully rendered audio data with recognizable traces of original musical ideas. ![y_tho](imgs/y_tho1.png)
+While there have been some successful attempts at creating convincing machine composers, these have so far all taken the track of training on score or midi derived data sets. There are currently no successful machine music generators trained only on the audio waveform data. This fact is surprising given the state of the field in image and video generation -- it seems that this is something deep learning algorithms ought to be able handle, and handle well. This capstone presents an attempt at training a neural net directly on the audio waveform of a performance of Bach's 24 Preludes and Fugues (from the *Well-Tempered Clavier*) in an attempt to produce fully rendered audio data with recognizable traces of original musical ideas.
+
+![y_tho](imgs/y_tho1.png)
 
 Given time constraints I don't expect to be able to succeed here where others have failed, but I do want to gain some insight into where the difficulties lie.
 
