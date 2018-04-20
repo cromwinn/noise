@@ -1,6 +1,6 @@
 ## NOISE IN THE MACHINE
 
-#####Audio Waveform Generation
+**Audio Waveform Generation**
 
 *Christopher Winn*
 
